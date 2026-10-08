@@ -2,6 +2,8 @@
 
 # ARTEX
 
+**简体中文** | [English](README.en.md) | [한국어](README.ko.md) | [日本語](README.ja.md)
+
 AI 自主渗透测试系统（Go 后端 + Next.js 前端）
 
 
